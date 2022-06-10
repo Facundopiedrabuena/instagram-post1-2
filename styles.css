@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+#contenedor{
+    background-color: white;
+width: 350px;
+height: 550px;
+margin: 0 auto;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.header-left{
+    display: flex;
+}
+p{
+    margin: 0;
+    font-size: 15px;
+    font-family: 'Roboto Flex', sans-serif;
+}
+.footer-icon{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.tamaño-iconos{
+    font-size: 30px;
+}
+.header-left-icon{
+    margin-right: 10px;
+}
+.footer-text{
+    margin: 10px;
+}
+.footer-text-likes{
+    margin-bottom: 10px;
+}
