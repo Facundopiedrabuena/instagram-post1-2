@@ -4,7 +4,7 @@ body{
 #contenedor{
     background-color: white;
 width: 350px;
-height: 550px;
+min-height: 550px;
 margin: 0 auto;
 }
 .header{
